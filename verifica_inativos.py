@@ -25,4 +25,7 @@ def verifica_inativos():
 # Vinculando a variavel data_ultimo_acesso a funcao verifica_inativos
 data_ultimo_acesso = verifica_inativos()
 
+# Exemplo de uso
+if __name__ == "__main__":
+    verifica_inativos()
     
