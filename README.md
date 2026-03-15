@@ -1,13 +1,69 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+Bem-Vindo!;Sou+o+Eduardo+Holanda!)](https://git.io/typing-svg)
+# 👤 Verificação de Usuários Inativos
 
+Este projeto foi desenvolvido para **verificar a atividade ou inatividade de usuários** em um sistema, com o objetivo de incentivar a participação contínua e agradecer pelo uso do programa.  
 
-### 🛜 **Tecnologias usadas no códigos:**
-<div style="display: inline_block"><br/>
-<img align = "center" alt = "Windows terminal" src= "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-<img align = "center" alt = "python" src = "http://ForTheBadge.com/images/badges/made-with-python.svg">
-</div<br/>
+---
 
-### ℹ️ Objetivo do código: 
-- Verifica a atividade ou inatividade do usuário;
-- Analisar se um usuário está inativo;
-- Envia uma mensagem motivadora para o usuário com objetivo de incentivar ele a voltar a ser ativo ou agradecer por utilizar o programa.
+## 🎯 Objetivos do Código:
+
+- Identificar se um usuário está ativo ou inativo.  
+- Enviar uma mensagem motivadora para usuários inativos, incentivando-os a voltar a utilizar o sistema.  
+- Agradecer usuários ativos pela participação.  
+
+---
+
+## 📂 Estrutura do Projeto:
+
+- **verifica_inativos.py** → Script principal para análise de atividade dos usuários.  
+- **README.md** → Documentação do projeto.  
+
+---
+
+## 🖥️ Tecnologias Utilizadas:
+
+- **Windows Terminal** → Ambiente de execução.  
+- **Python** → Linguagem principal para implementação da lógica.  
+
+---
+
+## 🚀 Como Executar:
+
+1. Clone este repositório:
+   ```
+   git clone https://github.com/usuario/repositorio.git
+   ```
+
+2. Acesse a pasta do projeto:
+   ```
+   cd nome-do-repositorio
+   ```
+
+3. Execute o script principal:
+   ```
+   python verifica_inativos.py
+   ```
+
+---
+
+## 📈 Possíveis Melhorias
+- [ ] Adicionar integração com banco de dados para armazenar logs de atividade.
+
+- [ ] Criar interface gráfica para visualização dos resultados.
+
+- [ ] Implementar envio automático de mensagens via e-mail ou WhatsApp.
+
+---
+
+## 👨‍💻 Autor
+Eduardo Holanda  
+   `Cientista de Dados` 
+   `Desenvolvedor Web`
+   `Desenvolvedor Full-Stack`
+
+---
+
+### Alguma dúvida? Clique no ícone de sua preferência e entre em contato comigo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588993744991)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhDtjvfPfMdGMKxQXHNqwNFGndFtWvngXWwPJrXgBQrBxjvTBvPncTlwDSGpthkKBXHJC)
+[<img aling="center" alt="perfil-dio" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/eholanda60)
